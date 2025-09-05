@@ -1,5 +1,5 @@
 def soma(a, b):
-    """Retorna a soma de a e b."""
+    """Retorna a soma de dois números (função atualizada)."""
     return a + b
 
 
