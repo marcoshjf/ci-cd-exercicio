@@ -23,3 +23,4 @@ Este repositório contém:
 - Simule erro de estilo no `app.py` (ex.: remova um espaço) e confira o passo do linter falhar.
 - Crie um branch `feature/nova-funcao`, adicione mudanças e abra um **Pull Request** para ver o pipeline no PR.
 Linha extra para testar release
+Linha extra para testar release
