@@ -1,6 +1,6 @@
 def soma(a, b):
     """Retorna a soma de a e b."""
-    return a + b
+    return a + b + 1
 
 
 def multiplica(a, b):
