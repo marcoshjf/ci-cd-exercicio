@@ -22,3 +22,4 @@ Este repositório contém:
 - Simule falha no CI alterando `soma` para `return a + b + 1`, faça *push* e observe o pipeline falhar, depois corrija.
 - Simule erro de estilo no `app.py` (ex.: remova um espaço) e confira o passo do linter falhar.
 - Crie um branch `feature/nova-funcao`, adicione mudanças e abra um **Pull Request** para ver o pipeline no PR.
+Linha extra para testar release
